@@ -50,8 +50,8 @@ Figure 02  Encoder 8 * 3
 5.For different input combinations generate the timing diagram
  Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
-Developed by: POTHU SUMANTH 
-RegisterNumber: 24000831
+Developed by: LEELA KRISHNA A.V.S
+RegisterNumber: 212224240013
 
     8:3 ENCODER
     
